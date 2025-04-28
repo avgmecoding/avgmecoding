@@ -1,5 +1,11 @@
-# 💫 About Me:
-i am currently pursuing my engineering into computer science<br>i am completely social into tech thats what something mostly fascinates about tech. i love the dynamicity and versatality of tech communities.<br>i am enthusiastic coder with decent amount of knowledge into tech theres lot more to ahead<br>i love helping peoples as per my knowldge
+## 👨‍💻 About Me
+
+- 🎓 I am currently pursuing my engineering degree in **Computer Science**.
+- 💬 I’m a social, tech-driven person - the dynamicity and versatility of tech communities fascinate me the most!
+- 💡 I'm an enthusiastic coder with a decent amount of knowledge in tech (always eager to learn more).
+- 🤝 I love helping people and sharing what I know.
+- 🚀 There’s always more to learn, and I’m excited about the journey ahead!
+
 
 
 ## 🌐 Socials:
