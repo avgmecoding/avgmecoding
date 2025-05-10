@@ -18,14 +18,6 @@
 <h2 align="center">📂 Featured Projects</h2>
 
 <p align="center">
-  <a href="https://github.com/Rajshri9579/SafeGuard">
-    <strong>🔹 SafeGuard</strong><br>
-    <em>A Women Safety Analytics Platform</em><br>
-    ➤ Real-time safety mapping, uncertainty alerts, smart responses
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/Rajshri9579/NutriTrack">
     <strong>🔹 NutriTrack</strong><br>
     <em>Recipe Nutrition Tracker | MERN</em><br>
@@ -117,14 +109,8 @@
 
 ---
 
-<h2 align="center">🏆 GitHub Trophies</h2>
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rajshri9579&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
+  <img src="https://visitcount.itsvg.in/api?id=Rajshri9579&icon=0&color=0" />
 </p>
 
----
-
-
-
-
+<!-- Cleaned and simplified version — powered by ChatGPT -->
