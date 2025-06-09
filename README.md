@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&lines=Hi+I'm+Rajshri+Patil;Aspiring+Full-Stack+Developer;Lifelong+Learner+💡;Passionate+about+Tech+%26+Wellbeing" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&lines=Hi+I'm+Rajshri+Patil;Aspiring+Full-Stack+Developer;Deep+Thinker+🧠;Lover+of+Tech+and+Timeless+Truths" />
 </p>
 
 ---
@@ -7,9 +7,10 @@
 <h2 align="center">👩‍💻 About Me</h2>
 
 <p align="center">
-🚀 CSE Student | Aspiring Full Stack Development<br>
-💬 Tech Explorer | Value-Driven Learner<br>
-🤝 Collaborative and Open-Source Mindset
+🚀 CSE Student | MERN Stack Explorer<br>
+💬 Tech-enthusiast with a soul rooted in stories & philosophy<br>
+📖 Admirer of Dostoevsky, Camus, and Premchand — seekers of meaning<br>
+🤝 Strong believer in collaboration, quiet revolutions & lifelong learning
 </p>
 
 ---
@@ -73,4 +74,6 @@
 
 ---
 
-<h3 align="center"><em>“Strive not to be a success, but rather to be of value.”</em><br>– Albert Einstein</h3>
+<h3 align="center"><em>“The mystery of human existence lies not in just staying alive, but in finding something to live for.”</em><br>– Fyodor Dostoevsky</h3>
+
+<h4 align="center"><em>“In the depth of winter, I finally learned that within me there lay an invincible summer.”</em><br>– Albert Camus</h4>
