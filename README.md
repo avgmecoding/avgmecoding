@@ -7,7 +7,7 @@
 <h2 align="center">👩‍💻 About Me</h2>
 
 <p align="center">
-🚀 CSE Student | MERN Stack Explorer<br>
+🚀 CSE Student | Aspiring Full Stack Development<br>
 💬 Tech-enthusiast with a soul rooted in stories & philosophy<br>
 📖 Admirer of Dostoevsky, Camus, and Premchand — seekers of meaning<br>
 🤝 Strong believer in collaboration, quiet revolutions & lifelong learning
