@@ -7,14 +7,14 @@
 <h2 align="center">👩‍💻 About Me</h2>
 
 <p align="center">
-🚀 CSE Student | MERN Stack Enthusiast<br>
+🚀 CSE Student | Aspiring Full Stack Development<br>
 💬 Tech Explorer | Value-Driven Learner<br>
 🤝 Collaborative and Open-Source Mindset
 </p>
 
 ---
 
-<h2 align="center">📌 Projects</h2>
+<h2 align="center">📌 Featured Project</h2>
 
 <p align="center">
   <a href="https://github.com/Rajshri9579/NutriTrack">
@@ -52,12 +52,23 @@
 
 ---
 
-<h2 align="center">🌐 Connect</h2>
+<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
+  <a href="https://discord.gg/rajshripatil"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white"/></a>
   <a href="https://instagram.com/rajshri097"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
   <a href="https://x.com/rajshri0987"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=X&logoColor=white"/></a>
   <a href="mailto:rajshripatil19022006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajshri9579&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Rajshri9579&theme=dark&hide_border=false" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajshri9579&theme=dark&hide_border=false&layout=compact"/>
 </p>
 
 ---
