@@ -71,9 +71,14 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=Rajshri9579&theme=dark&hide_border=false" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajshri9579&theme=dark&hide_border=false&layout=compact"/>
 </p>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajshri9579&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=false" /><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajshri9579&theme=react-dark&hide_border=false"/>
+</p>
 ---
 
-<h3 align="center"><em>“The mystery of human existence lies not in just staying alive, but in finding something to live for.”</em><br>– Fyodor Dostoevsky</h3>
+
+
+---
 
 <h4 align="center"><em>“In the depth of winter, I finally learned that within me there lay an invincible summer.”</em><br>– Albert Camus</h4>
