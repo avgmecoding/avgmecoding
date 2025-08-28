@@ -18,7 +18,7 @@
 <h2 align="center">📌 Featured Project</h2>
 
 <p align="center">
-  <a href="https://github.com/Rajshri9579/NutriTrack">
+  <a href="https://github.com/avgmecoding/NutriTrack">
     <strong>🔹 NutriTrack</strong><br>
     <em>Nutrition & Fitness Tracker (MERN)</em><br>
     ➤ Calorie insights, BMR calculator, smart suggestions
@@ -34,18 +34,12 @@
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
@@ -67,17 +61,13 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Rajshri9579&theme=dark&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajshri9579&theme=dark&hide_border=false&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=avgmecoding&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avgmecoding&theme=dark&hide_border=false&layout=compact" height="150"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajshri9579&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=false" /><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajshri9579&theme=react-dark&hide_border=false"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=avgmecoding&theme=dark&hide_border=false" height="150"/>
 </p>
----
-
-
 
 ---
 
