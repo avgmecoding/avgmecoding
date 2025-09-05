@@ -7,7 +7,7 @@
 <h2 align="center">👩‍💻 About Me</h2>
 
 <p align="center">
-🚀 Web dev | web3 Entusiast<br>
+🚀 Web dev | web3 Enthusiast<br>
 </p>
 
 ---
