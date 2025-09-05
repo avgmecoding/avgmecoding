@@ -7,22 +7,7 @@
 <h2 align="center">👩‍💻 About Me</h2>
 
 <p align="center">
-🚀 CSE Student | Aspiring Full Stack Development<br>
-💬 Tech-enthusiast with a soul rooted in stories & philosophy<br>
-📖 Admirer of Dostoevsky, Camus, and Premchand — seekers of meaning<br>
-🤝 Strong believer in collaboration, quiet revolutions & lifelong learning
-</p>
-
----
-
-<h2 align="center">📌 Featured Project</h2>
-
-<p align="center">
-  <a href="https://github.com/avgmecoding/NutriTrack">
-    <strong>🔹 NutriTrack</strong><br>
-    <em>Nutrition & Fitness Tracker (MERN)</em><br>
-    ➤ Calorie insights, BMR calculator, smart suggestions
-  </a>
+🚀 Web dev | web3 Entusiast<br>
 </p>
 
 ---
